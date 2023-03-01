@@ -2,4 +2,4 @@
 
 Hello, and welcome to my first repository!
 
-The main aim of this repository is to store and provide and practice space for my Repl.it projects.
+The main aim of this repository is to store all of my repl.it code, and provide a space to practice Python, before testing it out on repl.it.
